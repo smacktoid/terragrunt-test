@@ -1,0 +1,6 @@
+hydra:
+  env: prod
+
+task-service:
+  chartVersion: 2.0.0
+  image: 1.0.0

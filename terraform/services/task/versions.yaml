@@ -1,0 +1,8 @@
+dev:
+  chartVersion: 3.0.0
+  images:
+    task-service: 2.0.0
+prod:
+  chartVersion: 2.0.0
+  images:
+    task-service: 1.0.0
