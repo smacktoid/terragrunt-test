@@ -1,0 +1,6 @@
+hydra:
+  env: dev
+
+task-service:
+  chartVersion: 3.0.0
+  image: 2.0.0
